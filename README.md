@@ -1,6 +1,5 @@
-#Overview
-A simple tool that detects new notices on the university website and send it to my personal mail.![image](https://user-images.githubusercontent.com/78289033/172062020-8610304f-b51e-42a3-bf18-4b5e802f4c4e.png)
-
+# Overview
+A simple tool that detects new notices on the university website and send it to my personal mail.
 
 ## Prepare
 ```shell
